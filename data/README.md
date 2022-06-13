@@ -1,6 +1,6 @@
 # Training and Validation Data
 
-[![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](https://github.com/RikGhosh487/Open-Cluster/blob/main/LICENSE) ![Format](https://img.shields.io/badge/format-.csv-rgb(12%2C%2093%2C%20148))
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](https://github.com/RikGhosh487/MLP-Filters/blob/main/LICENSE) ![Format](https://img.shields.io/badge/format-.csv-rgb(12%2C%2093%2C%20148))
 
 This **directory** contains two subdirectories, each of which contains a CSV file obtained from the SQL [query](https://github.com/RikGhosh487/MLP-Filters/blob/main/data_extraction.sql). The entire data (train and validation combined) can be found in `mlp.csv`.
 

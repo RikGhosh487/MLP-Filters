@@ -1,6 +1,6 @@
 # Models, Architecture, and Training Code
 
-[![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](https://github.com/RikGhosh487/Open-Cluster/blob/main/LICENSE) ![Language](https://img.shields.io/badge/language-python-rgb(12%2C%2093%2C%20148)) [![Package](https://img.shields.io/badge/package-pytorch-blueviolet)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-green)](https://github.com/RikGhosh487/MLP-Filters/blob/main/LICENSE) ![Language](https://img.shields.io/badge/language-python-rgb(12%2C%2093%2C%20148)) [![Package](https://img.shields.io/badge/package-pytorch-blueviolet)](https://pytorch.org/)
 
 This **directory** contains all the model files, the architecture code, the utility functions and the training code for the models. This entire directory is treated as a submodule and individual files can be executed from the main directory using
 ```
